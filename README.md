@@ -9,4 +9,7 @@ The key is a random string of letters which is as long as the message to be sent
 
 ## Advantages of One Time Pad
 One time pad is completely random which makes it very hard for an attacker to make connections over many messages, however is you use a one time pad key multiple times than that security is taken away
+
+##### With thanks to the Raspberry Pi Foundation for the starter code for this project.
+
 #### Written in Python3
